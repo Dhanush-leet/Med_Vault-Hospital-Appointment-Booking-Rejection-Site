@@ -1,0 +1,24 @@
+# Node
+node_modules/
+dist/
+build/
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Spring Boot
+backend/target/
+*.log
+
+# Environment
+.env
+*.env
+
+# Uploads
+uploads/
+backend/uploads/
+
+# OS files
+.DS_Store
+Thumbs.db

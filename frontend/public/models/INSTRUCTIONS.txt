@@ -1,0 +1,19 @@
+
+IMPORTANT: 3D Model Assets Required
+
+To enable the full 3D interactive experience, please download the following models and place them in this directory (`frontend/public/models/`).
+
+1. **Heart Model**
+   - Search for: "Human Heart GLB" (e.g. from Sketchfab, Poly Pizza)
+   - Filename: `heart.glb`
+
+2. **Brain Model**
+   - Search for: "Human Brain GLB"
+   - Filename: `brain.glb`
+
+3. **DNA Model**
+   - Search for: "DNA Helix GLB"
+   - Filename: `dna.glb`
+
+Ensure the files are valid `.glb` (binary glTF) files. 
+If the models fail to load, the application will show a loading state or fallback.
