@@ -1,4 +1,4 @@
-# 🏥 MedVault – Enterprise 3D Electronic Health Record Platform
+# 🏥 Medvault – Hospital Appointment Booking & Rejection Website
 
 > A next-generation, production-ready Electronic Health Record (EHR) system with interactive 3D dashboards, real-time analytics, and enterprise-grade security.
 
